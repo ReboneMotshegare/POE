@@ -1,0 +1,20 @@
+@media screen and (max-device-width: 700)
+{
+    #nav-links a {
+        display: block;
+    }
+    #nav-links {
+        display: none;
+    }
+    #menu-icon {
+        background: black;
+        display: block;;
+        top: 0;
+      }
+}
+
+/* Landscape View */
+@media screen and (max-device-width: 700px)
+and (orientation: landscape) {
+
+}
